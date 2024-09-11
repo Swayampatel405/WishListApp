@@ -48,6 +48,7 @@ color card_background
 color edit_background
 color gray
 color green
+color note_app_icon_background
 color notification_action_color_filter
 color notification_icon_bg_color
 color purple_200
@@ -201,6 +202,9 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap note_app_icon
+mipmap note_app_icon_foreground
+mipmap note_app_icon_round
 string add_wish
 string androidx_startup
 string app_name

@@ -4,36 +4,32 @@
         "source": "com.example.mywishlistapp-main-56:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mywishlistapp-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_note_app_icon_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/note_app_icon_round.webp"
     },
     {
-        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxhdpi_note_app_icon.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxhdpi/note_app_icon.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxhdpi_note_app_icon_foreground.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxhdpi/note_app_icon_foreground.webp"
     },
     {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "com.example.mywishlistapp-main-56:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.mywishlistapp-merged_res-54:/xml_backup_rules.xml.flat",
-        "source": "com.example.mywishlistapp-main-56:/xml/backup_rules.xml"
-    },
-    {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "com.example.mywishlistapp-main-56:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.mywishlistapp-merged_res-54:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.mywishlistapp-main-56:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-hdpi_note_app_icon_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-hdpi/note_app_icon_round.webp"
     },
     {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "com.example.mywishlistapp-main-56:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
-        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
@@ -44,12 +40,16 @@
         "source": "com.example.mywishlistapp-main-56:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.mywishlistapp-main-56:/mipmap-mdpi/ic_launcher_round.webp"
-    },
-    {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "com.example.mywishlistapp-main-56:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-hdpi_note_app_icon_foreground.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-hdpi/note_app_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-hdpi_note_app_icon.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-hdpi/note_app_icon.webp"
     },
     {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-mdpi_ic_launcher.webp.flat",
@@ -58,6 +58,74 @@
     {
         "merged": "com.example.mywishlistapp-merged_res-54:/xml_data_extraction_rules.xml.flat",
         "source": "com.example.mywishlistapp-main-56:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_note_app_icon.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/note_app_icon.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxxhdpi_note_app_icon.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxxhdpi/note_app_icon.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxhdpi_note_app_icon_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxhdpi/note_app_icon_round.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/xml_backup_rules.xml.flat",
+        "source": "com.example.mywishlistapp-main-56:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-anydpi-v26_note_app_icon_round.xml.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-anydpi-v26/note_app_icon_round.xml"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-mdpi_note_app_icon_foreground.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-mdpi/note_app_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mywishlistapp-main-56:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-mdpi_note_app_icon_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-mdpi/note_app_icon_round.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xhdpi_note_app_icon_foreground.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xhdpi/note_app_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-anydpi-v26_note_app_icon.xml.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-anydpi-v26/note_app_icon.xml"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-mdpi_note_app_icon.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-mdpi/note_app_icon.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxxhdpi_note_app_icon_foreground.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxxhdpi/note_app_icon_foreground.webp"
+    },
+    {
+        "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxxhdpi_note_app_icon_round.webp.flat",
+        "source": "com.example.mywishlistapp-main-56:/mipmap-xxxhdpi/note_app_icon_round.webp"
     },
     {
         "merged": "com.example.mywishlistapp-merged_res-54:/mipmap-xxhdpi_ic_launcher_round.webp.flat",

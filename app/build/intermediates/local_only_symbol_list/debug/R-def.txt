@@ -6,6 +6,7 @@ color card_background
 color edit_background
 color gray
 color green
+color note_app_icon_background
 color purple_200
 color purple_500
 color purple_700
@@ -16,6 +17,9 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap note_app_icon
+mipmap note_app_icon_foreground
+mipmap note_app_icon_round
 string add_wish
 string app_name
 string update_wish

@@ -33,12 +33,12 @@
 23        android:extractNativeLibs="false"
 24        android:fullBackupContent="@xml/backup_rules"
 24-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:9:9-54
-25        android:icon="@mipmap/ic_launcher"
-25-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:10:9-43
+25        android:icon="@mipmap/note_app_icon"
+25-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:10:9-45
 26        android:label="@string/app_name"
 26-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:11:9-41
-27        android:roundIcon="@mipmap/ic_launcher_round"
-27-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:12:9-54
+27        android:roundIcon="@mipmap/note_app_icon_round"
+27-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:12:9-56
 28        android:supportsRtl="true"
 28-->D:\as program\MyWishListApp\app\src\main\AndroidManifest.xml:13:9-35
 29        android:testOnly="true"
